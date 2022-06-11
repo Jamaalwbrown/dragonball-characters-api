@@ -32,4 +32,4 @@
 
 ### :fire: Thank you!
 
-Please check out the rest of my [Github](https://github.com/barbaralaw) and my Yo-kai Watch client side repo [here](https://github.com/barbaralaw/clientYokai).
+Please check out the rest of my [Github](https://github.com/Jamaalwbrown)
